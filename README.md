@@ -1,4 +1,4 @@
-# A2 - CoffeAverage
+# M03 - A2 - CoffeAverage
 
 Say that you are interested in computing the average acid level of coffee as served by coffee shops in your home town. You visit many coffee shops and dip your pH meter into samples of coffee. You record your results in a text file such as the following. The first line of the file gives the number of values that follow.
 
