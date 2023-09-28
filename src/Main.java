@@ -102,8 +102,8 @@ public class Main {
 	}
 
 	/*
-	 * Sabiendo la posición del numDistante, lo ponemos a 0 y hacemos el promedio
-	 * sin contar esa posición que ahora es 0 (array.length -1)
+	 * Sabiendo la posición de numDistante, lo ponemos a 0 y hacemos el promedio sin
+	 * contar esa posición que ahora es 0, osea (array.length -1)
 	 */
 	public static double calcularPromedioArrayCorregido(double[] array, int indexNumeroDistante) {
 		/*
