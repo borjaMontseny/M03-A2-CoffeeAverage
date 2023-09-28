@@ -64,7 +64,10 @@ public class Main {
 			numDistante = numMin;
 		}
 
-		//
+		/*
+		 * Ahora que tenemos el numDistante, este while nos dirá en que posición está,
+		 * ese mismo número en el array, usando Double.compare mejor que ==
+		 */
 		int i = 0;
 		while (i < array.length && Double.compare(numDistante, array[i]) != 0) {
 			i++;
